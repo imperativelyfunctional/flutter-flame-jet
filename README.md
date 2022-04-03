@@ -12,4 +12,4 @@
 視頻地址：https://youtu.be/PCCHTwj9OwI <br>
 頻道地址：https://www.youtube.com/channel/UCI_nzNMP4JEyJiITpJeIxYg
 
-![遊戲截屏](https://github.com/imperativelyfunctional/flutte_flame_2d_air_fighter/blob/main/preview.gif)
+![遊戲截屏](https://github.com/imperativelyfunctional/flutter-flame-jet/blob/main/preview.gif)
